@@ -16,6 +16,13 @@
 
 ![2023-06-04T21_20_17](https://github.com/Siddarameshwaruh/SQL_Project-Movies_Dataset_Analysis/assets/127327782/2b80c1ef-8063-49d5-9e51-b36c5e2854fe)
 
+## Things Learnt 
+
+🔥 Creating ERD Diagram 
+🔥 SQL Joins 
+🔥 Subquery
+🔥 Common Table Expression (CTE)
+
 
 
 
