@@ -18,9 +18,12 @@
 
 ## Things Learnt 
 
-🔥 Creating ERD Diagram 
-🔥 SQL Joins 
+🔥 Creating ERD Diagram
+
+🔥 SQL Joins
+ 
 🔥 Subquery
+
 🔥 Common Table Expression (CTE)
 
 
